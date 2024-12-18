@@ -20,7 +20,7 @@ less evil.txt
 less harmless.txt
 ```
 
-### Project instructions
+## Project instructions
 ***These instructions were provided by Dr. Yilek as an assignment in CISC 410***<br>
 You are working as Alice’s personal assistant. She has dictated to you an email she wants to send to her close friend Bob:
 ```
